@@ -1,6 +1,6 @@
 # Paperclip autonomy test
 
-Private, disposable development project for VPS OS acceptance tests.
+Public, disposable development project for VPS OS acceptance tests.
 
 This repository contains the initial scaffold for **TextKit**, a dependency-free Python text utility package. The three software features in [ROADMAP.md](ROADMAP.md) are intentionally unimplemented: GLM-5.3 will implement them only after the owner authorizes Phase F.
 
